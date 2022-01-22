@@ -1,0 +1,95 @@
+.logo p
+{
+    text-align: center;
+}
+
+.logo img
+{
+    width: 150px;
+    height: 150px;
+}
+
+/** barra **/
+.barra
+{
+    background-color: black;
+    padding: 1%;
+}
+
+.barra p 
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+.barra a
+{
+    margin-left:50px;
+    margin-right:50px;
+    color: white;
+    text-decoration: none;
+}
+
+.barra a:hover
+{
+    color: blue;
+    font-size: 26px;
+}
+
+/** des-pagina **/
+.des-pagina p
+{
+    text-align: center;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+/** imagenes de los juegos **/
+/** imgs-pagina1 **/
+.imgs-juegos1 p
+{
+    text-align: center;
+}
+
+.imgs-juegos1 img
+{
+    width: 150px;
+    height: 150px;
+}
+
+/** imgs-pagina2 **/
+.imgs-juegos2 p
+{
+    text-align: center;
+}
+
+.imgs-juegos2 img
+{
+    width: 150px;
+    height: 150px;
+}
+
+/** imgs-pagina3 **/
+.imgs-juegos3 p
+{
+    text-align: center;
+}
+
+.imgs-juegos3 img
+{
+    width: 150px;
+    height: 150px;
+}
+
+/** copy **/
+.copyright
+{
+    background: yellow;
+}
+
+.copyright p
+{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}

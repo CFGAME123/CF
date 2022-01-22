@@ -1,0 +1,88 @@
+.logo p
+{
+    text-align: center;
+}
+
+.logo img
+{
+    width: 150px;
+    height: 150px;
+}
+
+/** barra **/
+/** barra **/
+.barra
+{
+    background-color: black;
+    padding: 1%;
+}
+
+.barra p 
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+.barra a
+{
+    margin-left:50px;
+    margin-right:50px;
+    color: white;
+    text-decoration: none;
+}
+
+.barra a:hover
+{
+    color: blue;
+    font-size: 26px;
+}
+
+/** enlaces de descarga **/
+.enlaces-descarga a
+{
+    color: blue;
+    text-decoration: none;
+}
+
+.enlaces-descarga a:hover
+{
+    color:red;
+    font-size: 23px;
+}
+
+/** informacion-de-la pagina **/
+.informacion-de-la-pagina p
+{
+    text-align: center;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+.informacion-de-la-pagina a
+{
+    color: blue;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.informacion-de-la-pagina a:hover
+{
+    color: red;
+    font-size: 23px;
+}
+
+strong
+{
+    color:blue;
+    font-size: 34px;
+}
+
+/** copyright **/
+.copyright
+{
+    background-color: yellow;
+}
+.copyright p
+{
+    text-align: center;
+}

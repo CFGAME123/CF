@@ -1,0 +1,15 @@
+body
+{
+    padding: 5%;
+}
+
+body p
+{
+    text-align: center;
+}
+
+body img
+{
+    width: 200px;
+    height: 200px;
+}
